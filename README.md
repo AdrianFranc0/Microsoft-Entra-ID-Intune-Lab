@@ -4,6 +4,33 @@ This lab simulates modern IT administration using **Microsoft Entra ID** for ide
 It demonstrates skills in **user management, MFA enforcement, device enrollment, compliance, configuration, application deployment, and endpoint hardening.  
 
 ---
+In this lab, I built a simulated enterprise environment leveraging Microsoft Entra ID (Azure AD) and Microsoft Intune to demonstrate modern identity and device management.
+
+Identity Management (Entra ID)
+
+Configured cloud-based directory services for centralized authentication and access control.
+
+Set up Multi-Factor Authentication (MFA) and explored Conditional Access policies to simulate Zero Trust.
+
+Device Enrollment & Management (Intune)
+
+Enrolled Windows endpoints into Intune for centralized management.
+
+Applied baseline security configurations and compliance policies.
+
+App Management
+
+Deployed Microsoft 365 applications (Teams, Outlook, OneDrive) through Intune.
+
+Configured Company Portal for self-service app installs.
+
+Policy Enforcement
+
+Created compliance rules (e.g., password requirements, AV enabled, BitLocker).
+
+Applied device configuration profiles to enforce enterprise standards.
+
+---
 
 ## Step 1 – Entra ID Setup  
 
